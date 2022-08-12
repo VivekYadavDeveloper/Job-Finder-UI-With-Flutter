@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-Screenshot_20220813_004401.png
+<img src="Screenshot_20220813_004401.png" width= 200/>
 
 This project is a starting point for a Flutter application.
 
